@@ -4,6 +4,7 @@ metadata:
   name: podinfo
   labels:
     key1: "value1"
+    key2: "value2"
 spec:
   type: ClusterIP
   selector:
